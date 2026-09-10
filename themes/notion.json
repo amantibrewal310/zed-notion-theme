@@ -38,6 +38,7 @@
         "element.active": "#e4e4e1ff",
         "element.selected": "#e4e4e1ff",
         "element.disabled": "#F7F6F380",
+        "element.selection_background": "#2383e247",
         "ghost_element.background": "#00000000",
         "ghost_element.hover": "#eeeeecff",
         "ghost_element.active": "#e4e4e1ff",
@@ -706,7 +707,7 @@
           {
             "cursor": "#24221dff",
             "background": "#24221dff",
-            "selection": "#e9f3f7fc"
+            "selection": "#2383e247"
           },
           {
             "cursor": "#2e7097ff",
@@ -781,6 +782,7 @@
         "element.active": "#3a3a3aff",
         "element.selected": "#3a3a3aff",
         "element.disabled": "#20202080",
+        "element.selection_background": "#2383e259",
         "ghost_element.background": "#00000000",
         "ghost_element.hover": "#303030ff",
         "ghost_element.active": "#3a3a3aff",
@@ -1449,7 +1451,7 @@
           {
             "cursor": "#D4D4D4ff",
             "background": "#D4D4D4ff",
-            "selection": "#1f282dfc"
+            "selection": "#2383e259"
           },
           {
             "cursor": "#5092d9ff",
