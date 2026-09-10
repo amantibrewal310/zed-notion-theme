@@ -1,23 +1,7 @@
-id = "notion"
+id = "notion-theme"
 name = "Notion"
 version = "0.1.0"
 schema_version = 1
+authors = ["Aman Tibrewal <amantibrewal310@gmail.com>"]
 description = "Notion's own colour palette, as a light and dark theme for Zed."
 repository = "https://github.com/amantibrewal310/zed-notion-theme"
-authors = ["Aman Tibrewal <amantibrewal310@gmail.com>"]
-themes = ["themes/notion.json"]
-icon_themes = []
-languages = []
-capabilities = []
-
-[lib]
-
-[grammars]
-
-[language_servers]
-
-[context_servers]
-
-[agent_servers]
-
-[slash_commands]

@@ -44,15 +44,6 @@ Notion; it just doesn't wash out at small sizes.
 Both themes define all 176 of Zed's style keys and all 102 syntax keys, so nothing
 falls back to Zed's defaults.
 
-## Matching terminal
-
-[Ghostty](https://ghostty.org) themes are in [`terminal/`](terminal). Drop them in
-`~/.config/ghostty/themes/`, then:
-
-```
-theme = light:Notion Light,dark:Notion Dark
-```
-
 ## Credits
 
 Colour values sourced from Notion's published palette, catalogued by
