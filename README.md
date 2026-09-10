@@ -16,6 +16,9 @@ onto Zed's syntax slots.
 
 Zed → `cmd-shift-x` → search **Notion**.
 
+Until it lands in the extension registry: clone this repo, open `cmd-shift-x`, click
+**Install Dev Extension** and pick the folder.
+
 Then pick it with `cmd-k cmd-t`, or follow your system light/dark setting:
 
 ```json
@@ -38,11 +41,18 @@ Notion; it just doesn't wash out at small sizes.
 
 | | worst syntax contrast | colours below AA |
 | --- | --- | --- |
-| Notion Light | 4.60:1 | 0 of 102 |
+| Notion Light | 4.62:1 | 0 of 102 |
 | Notion Dark | 4.64:1 | 0 of 102 |
 
-Both themes define all 176 of Zed's style keys and all 102 syntax keys, so nothing
-falls back to Zed's defaults.
+Both themes define every style key Zed reads (189, as of September 2026) and all 102
+syntax keys, so nothing falls back to Zed's defaults.
+
+Two things are deliberately not Notion:
+
+- **Selection** is Notion's own `#2383E2` at about 28%, the same tint Notion uses when
+  you select text in a page, rather than a colour from the text palette.
+- **Terminal cyan** is a teal. Notion has no cyan, and brown in its place makes `ls`
+  output and shell prompts read as dirt. It is the only hue outside the palette.
 
 ## Credits
 
