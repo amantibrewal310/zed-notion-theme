@@ -60,7 +60,7 @@
         "editor.subheader.background": "#F7F6F3ff",
         "editor.active_line.background": "#F1F1EFff",
         "editor.highlighted_line.background": "#e9f3f799",
-        "editor.debugger_active_line.background": "#89630833",
+        "editor.debugger_active_line.background": "#b23e7c33",
         "editor.line_number": "#767573ff",
         "editor.active_line_number": "#24221dff",
         "editor.invisible": "#767573ff",
@@ -71,7 +71,7 @@
         "editor.document_highlight.read_background": "#2e709721",
         "editor.document_highlight.write_background": "#b646092e",
         "editor.document_highlight.bracket_background": "#7675732e",
-        "search.match_background": "#8963084c",
+        "search.match_background": "#b23e7c4c",
         "search.active_match_background": "#b6460973",
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#00000000",
@@ -87,7 +87,7 @@
         "vim.mode.text": "#24221dff",
         "syntax": {
           "attribute": {
-            "color": "#b23e7cff",
+            "color": "#896308ff",
             "font_style": null,
             "font_weight": null
           },
@@ -147,17 +147,17 @@
             "font_weight": null
           },
           "comment.warn": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.warning": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": "italic",
             "font_weight": null
           },
           "concept": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": null,
             "font_weight": null
           },
@@ -172,12 +172,12 @@
             "font_weight": null
           },
           "constant.macro": {
-            "color": "#b23e7cff",
+            "color": "#896308ff",
             "font_style": null,
             "font_weight": null
           },
           "constructor": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": null,
             "font_weight": null
           },
@@ -207,7 +207,7 @@
             "font_weight": 700
           },
           "enum": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": null,
             "font_weight": null
           },
@@ -237,12 +237,12 @@
             "font_weight": null
           },
           "function.decorator": {
-            "color": "#b23e7cff",
+            "color": "#896308ff",
             "font_style": null,
             "font_weight": null
           },
           "function.macro": {
-            "color": "#b23e7cff",
+            "color": "#896308ff",
             "font_style": null,
             "font_weight": null
           },
@@ -287,12 +287,12 @@
             "font_weight": null
           },
           "keyword.directive": {
-            "color": "#b23e7cff",
+            "color": "#896308ff",
             "font_style": null,
             "font_weight": null
           },
           "keyword.directive.define": {
-            "color": "#b23e7cff",
+            "color": "#896308ff",
             "font_style": null,
             "font_weight": null
           },
@@ -357,12 +357,12 @@
             "font_weight": null
           },
           "module": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": null,
             "font_weight": null
           },
           "namespace": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": null,
             "font_weight": null
           },
@@ -387,7 +387,7 @@
             "font_weight": null
           },
           "parent": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": null,
             "font_weight": null
           },
@@ -402,7 +402,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#b23e7cff",
+            "color": "#896308ff",
             "font_style": null,
             "font_weight": null
           },
@@ -507,7 +507,7 @@
             "font_weight": null
           },
           "tag.attribute": {
-            "color": "#b23e7cff",
+            "color": "#896308ff",
             "font_style": null,
             "font_weight": null
           },
@@ -537,7 +537,7 @@
             "font_weight": 700
           },
           "type": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": null,
             "font_weight": null
           },
@@ -547,22 +547,22 @@
             "font_weight": null
           },
           "type.class.definition": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": null,
             "font_weight": 700
           },
           "type.definition": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": null,
             "font_weight": null
           },
           "type.interface": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": null,
             "font_weight": null
           },
           "type.super": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": null,
             "font_weight": null
           },
@@ -592,7 +592,7 @@
             "font_weight": null
           },
           "variant": {
-            "color": "#896308ff",
+            "color": "#b23e7cff",
             "font_style": null,
             "font_weight": null
           }
@@ -609,15 +609,15 @@
         "renamed": "#2e7097ff",
         "renamed.background": "#2e709726",
         "renamed.border": "#2e709766",
-        "conflict": "#896308ff",
-        "conflict.background": "#89630826",
-        "conflict.border": "#89630866",
+        "conflict": "#b23e7cff",
+        "conflict.background": "#b23e7c26",
+        "conflict.border": "#b23e7c66",
         "error": "#c5332eff",
         "error.background": "#c5332e21",
         "error.border": "#c5332e66",
-        "warning": "#896308ff",
-        "warning.background": "#89630821",
-        "warning.border": "#89630866",
+        "warning": "#b23e7cff",
+        "warning.background": "#b23e7c21",
+        "warning.border": "#b23e7c66",
         "info": "#2e7097ff",
         "info.background": "#2e709721",
         "info.border": "#2e709766",
@@ -643,7 +643,7 @@
         "version_control.modified": "#b64609ff",
         "version_control.deleted": "#c5332eff",
         "version_control.renamed": "#2e7097ff",
-        "version_control.conflict": "#896308ff",
+        "version_control.conflict": "#b23e7cff",
         "version_control.ignored": "#767573ff",
         "version_control.conflict_marker.ours": "#3d755733",
         "version_control.conflict_marker.theirs": "#2e709733",
@@ -661,9 +661,9 @@
         "terminal.ansi.green": "#3d7557ff",
         "terminal.ansi.bright_green": "#3d7557ff",
         "terminal.ansi.dim_green": "#3d75578c",
-        "terminal.ansi.yellow": "#896308ff",
-        "terminal.ansi.bright_yellow": "#896308ff",
-        "terminal.ansi.dim_yellow": "#8963088c",
+        "terminal.ansi.yellow": "#b23e7cff",
+        "terminal.ansi.bright_yellow": "#b23e7cff",
+        "terminal.ansi.dim_yellow": "#b23e7c8c",
         "terminal.ansi.blue": "#2e7097ff",
         "terminal.ansi.bright_blue": "#2e7097ff",
         "terminal.ansi.dim_blue": "#2e70978c",
@@ -690,8 +690,8 @@
         "vim.visual_block.foreground": "#8556a7ff",
         "vim.helix_normal.background": "#2e709733",
         "vim.helix_normal.foreground": "#2e7097ff",
-        "vim.helix_select.background": "#89630833",
-        "vim.helix_select.foreground": "#896308ff",
+        "vim.helix_select.background": "#b23e7c33",
+        "vim.helix_select.foreground": "#b23e7cff",
         "accents": [
           "#2e7097ff",
           "#8556a7ff",
@@ -803,7 +803,7 @@
         "editor.subheader.background": "#202020ff",
         "editor.active_line.background": "#252525ff",
         "editor.highlighted_line.background": "#1f282d99",
-        "editor.debugger_active_line.background": "#d9a51833",
+        "editor.debugger_active_line.background": "#d66c9833",
         "editor.line_number": "#9b9b9bff",
         "editor.active_line_number": "#D4D4D4ff",
         "editor.invisible": "#9b9b9bff",
@@ -814,7 +814,7 @@
         "editor.document_highlight.read_background": "#5092d921",
         "editor.document_highlight.write_background": "#eb670d2e",
         "editor.document_highlight.bracket_background": "#9b9b9b3d",
-        "search.match_background": "#d9a5184c",
+        "search.match_background": "#d66c984c",
         "search.active_match_background": "#eb670d73",
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#00000000",
@@ -830,7 +830,7 @@
         "vim.mode.text": "#D4D4D4ff",
         "syntax": {
           "attribute": {
-            "color": "#d66c98ff",
+            "color": "#d9a518ff",
             "font_style": null,
             "font_weight": null
           },
@@ -890,17 +890,17 @@
             "font_weight": null
           },
           "comment.warn": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.warning": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": "italic",
             "font_weight": null
           },
           "concept": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": null,
             "font_weight": null
           },
@@ -915,12 +915,12 @@
             "font_weight": null
           },
           "constant.macro": {
-            "color": "#d66c98ff",
+            "color": "#d9a518ff",
             "font_style": null,
             "font_weight": null
           },
           "constructor": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": null,
             "font_weight": null
           },
@@ -950,7 +950,7 @@
             "font_weight": 700
           },
           "enum": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": null,
             "font_weight": null
           },
@@ -980,12 +980,12 @@
             "font_weight": null
           },
           "function.decorator": {
-            "color": "#d66c98ff",
+            "color": "#d9a518ff",
             "font_style": null,
             "font_weight": null
           },
           "function.macro": {
-            "color": "#d66c98ff",
+            "color": "#d9a518ff",
             "font_style": null,
             "font_weight": null
           },
@@ -1030,12 +1030,12 @@
             "font_weight": null
           },
           "keyword.directive": {
-            "color": "#d66c98ff",
+            "color": "#d9a518ff",
             "font_style": null,
             "font_weight": null
           },
           "keyword.directive.define": {
-            "color": "#d66c98ff",
+            "color": "#d9a518ff",
             "font_style": null,
             "font_weight": null
           },
@@ -1100,12 +1100,12 @@
             "font_weight": null
           },
           "module": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": null,
             "font_weight": null
           },
           "namespace": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": null,
             "font_weight": null
           },
@@ -1130,7 +1130,7 @@
             "font_weight": null
           },
           "parent": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": null,
             "font_weight": null
           },
@@ -1145,7 +1145,7 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#d66c98ff",
+            "color": "#d9a518ff",
             "font_style": null,
             "font_weight": null
           },
@@ -1250,7 +1250,7 @@
             "font_weight": null
           },
           "tag.attribute": {
-            "color": "#d66c98ff",
+            "color": "#d9a518ff",
             "font_style": null,
             "font_weight": null
           },
@@ -1280,7 +1280,7 @@
             "font_weight": 700
           },
           "type": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": null,
             "font_weight": null
           },
@@ -1290,22 +1290,22 @@
             "font_weight": null
           },
           "type.class.definition": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": null,
             "font_weight": 700
           },
           "type.definition": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": null,
             "font_weight": null
           },
           "type.interface": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": null,
             "font_weight": null
           },
           "type.super": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": null,
             "font_weight": null
           },
@@ -1335,7 +1335,7 @@
             "font_weight": null
           },
           "variant": {
-            "color": "#d9a518ff",
+            "color": "#d66c98ff",
             "font_style": null,
             "font_weight": null
           }
@@ -1352,15 +1352,15 @@
         "renamed": "#5092d9ff",
         "renamed.background": "#5092d926",
         "renamed.border": "#5092d966",
-        "conflict": "#d9a518ff",
-        "conflict.background": "#d9a51826",
-        "conflict.border": "#d9a51866",
+        "conflict": "#d66c98ff",
+        "conflict.background": "#d66c9826",
+        "conflict.border": "#d66c9866",
         "error": "#d8706cff",
         "error.background": "#d8706c21",
         "error.border": "#d8706c66",
-        "warning": "#d9a518ff",
-        "warning.background": "#d9a51821",
-        "warning.border": "#d9a51866",
+        "warning": "#d66c98ff",
+        "warning.background": "#d66c9821",
+        "warning.border": "#d66c9866",
         "info": "#5092d9ff",
         "info.background": "#5092d921",
         "info.border": "#5092d966",
@@ -1386,7 +1386,7 @@
         "version_control.modified": "#eb670dff",
         "version_control.deleted": "#d8706cff",
         "version_control.renamed": "#5092d9ff",
-        "version_control.conflict": "#d9a518ff",
+        "version_control.conflict": "#d66c98ff",
         "version_control.ignored": "#9b9b9bff",
         "version_control.conflict_marker.ours": "#30a26a33",
         "version_control.conflict_marker.theirs": "#5092d933",
@@ -1404,9 +1404,9 @@
         "terminal.ansi.green": "#30a26aff",
         "terminal.ansi.bright_green": "#35b274ff",
         "terminal.ansi.dim_green": "#30a26a8c",
-        "terminal.ansi.yellow": "#d9a518ff",
-        "terminal.ansi.bright_yellow": "#d9a518ff",
-        "terminal.ansi.dim_yellow": "#d9a5188c",
+        "terminal.ansi.yellow": "#d66c98ff",
+        "terminal.ansi.bright_yellow": "#dc82a7ff",
+        "terminal.ansi.dim_yellow": "#d66c988c",
         "terminal.ansi.blue": "#5092d9ff",
         "terminal.ansi.bright_blue": "#69a2deff",
         "terminal.ansi.dim_blue": "#5092d98c",
@@ -1433,8 +1433,8 @@
         "vim.visual_block.foreground": "#a57eceff",
         "vim.helix_normal.background": "#5092d933",
         "vim.helix_normal.foreground": "#5092d9ff",
-        "vim.helix_select.background": "#d9a51833",
-        "vim.helix_select.foreground": "#d9a518ff",
+        "vim.helix_select.background": "#d66c9833",
+        "vim.helix_select.foreground": "#d66c98ff",
         "accents": [
           "#5092d9ff",
           "#a57eceff",
