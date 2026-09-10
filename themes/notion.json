@@ -273,7 +273,7 @@
             "font_weight": null
           },
           "keyword.conditional.ternary": {
-            "color": "#79746aff",
+            "color": "#56534dff",
             "font_style": null,
             "font_weight": null
           },
@@ -323,7 +323,7 @@
             "font_weight": null
           },
           "keyword.operator": {
-            "color": "#79746aff",
+            "color": "#56534dff",
             "font_style": null,
             "font_weight": null
           },
@@ -378,7 +378,7 @@
             "font_weight": null
           },
           "operator": {
-            "color": "#79746aff",
+            "color": "#56534dff",
             "font_style": null,
             "font_weight": null
           },
@@ -1017,7 +1017,7 @@
             "font_weight": null
           },
           "keyword.conditional.ternary": {
-            "color": "#838383ff",
+            "color": "#a8a8a8ff",
             "font_style": null,
             "font_weight": null
           },
@@ -1067,7 +1067,7 @@
             "font_weight": null
           },
           "keyword.operator": {
-            "color": "#838383ff",
+            "color": "#a8a8a8ff",
             "font_style": null,
             "font_weight": null
           },
@@ -1122,7 +1122,7 @@
             "font_weight": null
           },
           "operator": {
-            "color": "#838383ff",
+            "color": "#a8a8a8ff",
             "font_style": null,
             "font_weight": null
           },
